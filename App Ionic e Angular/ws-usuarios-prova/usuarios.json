@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nome": "Cássio Jaques",
+        "login": "cassio",
+        "senha": "cassio123",
+        "perfil": 1               
+    },
+    { 
+        "id": 2,
+        "nome": "Jéssica Vargas",
+        "login": "jeh",
+        "senha": "jeh123",
+        "perfil": 2           
+    },
+    { 
+        "id": 3,
+        "nome": "Chico Silva",
+        "login": "chico",
+        "senha": "auau123",
+        "perfil": 2           
+    }
+]
